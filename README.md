@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 
 ## 🔗 Live Website
 
-https://your-username.github.io/portfolio/
+https://kgupta200.github.io/Portfolio/
 
 ## 💻 Technologies Used
 
