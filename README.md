@@ -20,7 +20,8 @@ https://your-username.github.io/portfolio/
 
 ## 📷 Screenshot
 
-#ss
+<img width="1906" height="971" alt="image" src="https://github.com/user-attachments/assets/67c264e1-3733-44e7-82a8-30369fce329f" />
+
 
 ## 🙋‍♀️ Author
 
