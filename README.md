@@ -2,7 +2,7 @@
 
 A modern, responsive single-page portfolio showcasing my projects, experience, skills and education. Built with plain HTML, CSS and JavaScript, with no frameworks or build step.
 
-**Live site:** https://kgupta200.github.io/portfolio/
+**Live site:** https://kgupta200.github.io/Portfolio/
 
 ## Features
 
